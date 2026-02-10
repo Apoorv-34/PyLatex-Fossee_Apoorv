@@ -38,6 +38,6 @@ Ensure you have a LaTeX distribution installed on your system (like **MiKTeX** o
 ### 2. Installation
 Clone the repository and install the dependencies:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+git clone [https://github.com/Apoorv-34/PyLatex-Fossee_Apoorv.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
 cd YOUR_REPO_NAME
 pip install -r requirements.txt
